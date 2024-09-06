@@ -172,5 +172,8 @@ Here are some screenshots showing the outputs and logs:
 - **FineTune Interaction**:
   ![Chatbot Interaction](screenshots/sample3.png)
 
+- **Finetune Results**:
+  ![Chatbot Interaction](screenshots/sample4.png)
+
 ## Contact
 For any inquiries or issues: https://www.linkedin.com/in/andytillo/
